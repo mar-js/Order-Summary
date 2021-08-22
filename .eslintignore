@@ -1,0 +1,6 @@
+**/*.min.js
+**/dist/
+
+/src/reportWebVitals.js
+/src/setupTests.js
+/src/App.test.js
