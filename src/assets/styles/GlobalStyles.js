@@ -24,11 +24,18 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   html {
+    height: 100vh;
     font-size: 10px;
   }
 
   body {
+    height: 100%;
     font-family: var(---font-family);
+    background-color: var(--pale-blue);
+  }
+
+  #root {
+    height: 100%;
   }
 
   h1, h3 {
