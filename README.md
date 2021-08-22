@@ -1,3 +1,7 @@
+# Frontend Mentor - Order summary card
+
+![Design preview for the Order summary card coding challenge](./src/assets/design/desktop-preview.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
