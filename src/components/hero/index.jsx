@@ -1,6 +1,6 @@
-import heroImg from '../../assets/images/illustration-hero.svg'
-
 import { Img } from './styles'
+
+import heroImg from '../../assets/images/illustration-hero.svg'
 
 export const Hero = () => (
   <Img

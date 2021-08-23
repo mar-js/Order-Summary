@@ -1,9 +1,9 @@
+import { HeaderStyles } from './styles'
+
 import { Hero } from '../../components/hero'
 
-import { HeaderStyle } from './styles'
-
 export const Header = () => (
-  <HeaderStyle>
+  <HeaderStyles>
     <Hero />
-  </HeaderStyle>
+  </HeaderStyles>
 )
